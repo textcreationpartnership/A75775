@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The atachment examination and confession of A French-man upon Christmas day, concerning trecherie intended against London, upon Tuesday, Decemb. the 27, 1641. Also the examination and confession of seven papists, who were taken by the watch on Friday night, and brought before the magistrates, who said there should be an alteration suddenly. With a report from from Abbington towne in Barkshire, being a relation of what harme the thunder and lightning did on Thursday last, upon the body of Humphrey Richardson, a rich miserable farmer. With an exhortation for England to repent. Also how the barne of the aforesaid man was burned downe. Warranted by Iohn Andrewes Esquire. Iustice of peace and coram, living in the same shire.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75775</idno>
+            <idno type="STC">Wing A4145</idno>
+            <idno type="STC">Thomason E181_17</idno>
+            <idno type="STC">ESTC R12803</idno>
+            <idno type="EEBO-CITATION">99859347</idno>
+            <idno type="PROQUEST">99859347</idno>
+            <idno type="VID">111421</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75775)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111421)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 32:E181[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The atachment examination and confession of A French-man upon Christmas day, concerning trecherie intended against London, upon Tuesday, Decemb. the 27, 1641. Also the examination and confession of seven papists, who were taken by the watch on Friday night, and brought before the magistrates, who said there should be an alteration suddenly. With a report from from Abbington towne in Barkshire, being a relation of what harme the thunder and lightning did on Thursday last, upon the body of Humphrey Richardson, a rich miserable farmer. With an exhortation for England to repent. Also how the barne of the aforesaid man was burned downe. Warranted by Iohn Andrewes Esquire. Iustice of peace and coram, living in the same shire.</title>
+               </titleStmt>
+               <extent>[8] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Bowden,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Illustration on verso of last leaf.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Richardson, Humphrey, d. 1641 --  Early works to 1800.</term>
+               <term>London (England) --  History --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:111421:1"/>
+            <p>
+               <figure/>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:111421:1" rendition="simple:additions"/>
+            <p>THE ATACHMENT EXAMINATION AND CONFESSION OF A French-man upon <hi>Chriſtmas day,</hi> concerning Trechetie intended againſt London, upon Tueſday, Decemb. the 27, 1641.</p>
+            <p>Alſo the Examination and Confeſſion of ſeven Papiſts, who were taken by the Watch on Friday night, and brought before the Magiſtrates, who ſaid there ſhould be an alteration ſuddenly.</p>
+            <p>WITH A REPORT FROM Abbington towne in Barkſhire, being a Relation of what harme the Thunder and Lightning did on Thurſday laſt, upon the body of <hi>Hum<g ref="char:EOLhyphen"/>phrey Richardſon,</hi> a rich miſerable Farmer. With an exhorta<g ref="char:EOLhyphen"/>tion for England to repent.</p>
+            <p>Alſo how the barne of the aforeſaid man was burned downe.</p>
+            <p>Warranted by Iohn Andrewes Eſquire. Iuſtice of peace and Coram living in the ſame ſhire.</p>
+            <p>London, Printed for William Bowden, 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account_of_an_arrest_examination_and_confession">
+            <pb facs="tcp:111421:2"/>
+            <pb facs="tcp:111421:2"/>
+            <head>THE ATTACHMENT Examination, and Confeſsion of a French-man, vpon Chriſtmas day, 1641,</head>
+            <p>Vpon Chriſtmas day being ſaturday, did a Frenchman take water at the Parlia<g ref="char:EOLhyphen"/>ment ſtaires, to be conveyed to <hi>London</hi> ridge, but by the way he thus reported to the water-men, that it would be a bloudy day for <hi>London,</hi> either upon the next day being ſunday, or elſe upon munday, which the water-men hea<g ref="char:EOLhyphen"/>ring, they made no anſwer, but ſo ſoone as they <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ame to land, they ceazed upon him, ſending for the conſtable, who becauſe it was Sermon time they carryed him unto the Church, and then had order from the Church-wardens to keepe him in the veſtry, untill the Sermon was finiſhed, which he did.</p>
+            <p>Sermon being ended, the Church-wardens and others asked him, if the Report concerning him were true or no, he anſwered, that hee could
+<pb facs="tcp:111421:3"/>not deny what he had ſpoken, for there was four men of no meane quality knew it to be true as well as himſelfe.</p>
+            <p>Whereupon hee was carryed before Sir <hi>Iohn Lentall,</hi> who reſolved to have him further exa<g ref="char:EOLhyphen"/>mined before the Honourable Court of Par<g ref="char:EOLhyphen"/>liament.</p>
+            <div type="part">
+               <head>A true Report from Abbing towne in Barkſhire.</head>
+               <p>WHat we have deſerved at Gods have for our ſins, is not to be diſputed; for why, our wickedneſſe doth dally abound, ann our ſins are laid open before him.</p>
+               <p>Religion claimes his due, and Truth doth ſue Iuſtice, our conſciences doe accuſe us, and our Mrrors doe witneſſe againſt us, the Lord of hoſt the God, we have very much offended.</p>
+               <p>O conſider, oh man, that although God ſhould lay his greateſt affliction upon thee, yet haſt thou deſerved it, ſhould he ſend the plague, as he did in the time of King David, it were but thy deſert, ſhould he ſend Famine, as he did to Ieru<g ref="char:EOLhyphen"/>ſalem, or ſhould he ſend the ſword, as hee did to the Germaines, yet were it but thy deſert.</p>
+               <pb facs="tcp:111421:3"/>
+               <p> O then conſider oh man, how gracious God hath bin unto thee, and although he hath touch<g ref="char:EOLhyphen"/>ed thee; yet hath he not wounded thee to the heart. I ſpeake to Engliſh-men, which in ſome meaſure have received afflictions.</p>
+               <p>Firſt of all by the Peſtilence. Secondly by the ſword abroad, and it is to be feared, that unleſſe we ſpeedily repent, worſe things will happen vnto vs.</p>
+               <p>Ieruſalem had many warnings, and wee have had no leſſe, Germany had ſome ſignes, but we have had more: we had once a Iudah which cut of the head of proud Olopherns, curbing the in<g ref="char:EOLhyphen"/>ſolency of papiſticall ſpanyards, who thought for to have brought to confuſion: we had once a Salomon which ruled his people wiſely, and now have we the iſſue of David ſitting upon the Throne, which delights in peace, piety, and equi<g ref="char:EOLhyphen"/>tie.</p>
+               <p>And yet cannot we be centented, nor will we be ruled, but delight in Errour. Luxury, and Pride, alſo here is Covetouſneſſe too much wor<g ref="char:EOLhyphen"/>ſhipped amongſt us (my expreſſion is to be ex<g ref="char:EOLhyphen"/>cuſed) wuich brings me to a ſtory vvhich I hope will be read by all thoſe vvhich are affected to that ſtrayne: I meane thr Divels Trafficke, for Avarice; as once a wiſe man ſaid is no other<g ref="char:EOLhyphen"/>wiſe.</p>
+               <pb facs="tcp:111421:4"/>
+               <p> In <hi>Bark-ſhire</hi> in the towne of <hi>Abbington</hi> lived one <hi>Humphrey Richardſon</hi> a very rich <hi>Farmer,</hi> his riches did more abound then his goodneſſe: as will be approved by this enſuing ſtory.</p>
+               <p>This yeare, the Lord be praiſed hath bin ſuf<g ref="char:EOLhyphen"/>ficiently ſupplyed with wheat and grayne, which the aforeſaid Miſer perceiving, &amp; had very much Land and plenty of corn, he reſolved to hoard up his ſtore untill a ſcarcity ſhould come, like unto the rich-man in the Goſpell, he was reſolved to build greater barnes, but ſee how God prevented him.</p>
+               <p>Vpon Thurſday being the 23. of December, was a very great ſtorme, with much Thunder and Lightning, being apparent alſo in <hi>London.</hi>
+               </p>
+               <p>That very day did the Lightning ceaze upon the barne of the aforenamed Miſer, and burned up all his corne, and hee himſelfe going about to get men to quench the fire was flaine by a Thun<g ref="char:EOLhyphen"/>der-bolt: by which let all Miſers take warning, and not delight to make a ſcarcity of plenty, leaſt God ſhew the like judgment upon them.</p>
+               <p>
+                  <hi>All this is warranted by Iohn Andrewes Eſq; Iuſtice of Peace and Coram, living in Ab<g ref="char:EOLhyphen"/>bington.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="account_of_examination_and_confession">
+            <pb facs="tcp:111421:4"/>
+            <head>THE E<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>amination and Confeſsion of ſeven Papiſts, which were taken by the Watch upon Friday night.</head>
+            <p>THere were alſo taken upon Friday night by the watch ſeven luſty fellowes, who when they were brought before the Ma<g ref="char:EOLhyphen"/>giſtrates and examined where they had beene. they moſt peremptorily anſwered at Maſſe: then they asked them, if they were not Confe<g ref="char:EOLhyphen"/>derates with thoſe villaines which invented and plotted treachery againſt the City, they anſwe<g ref="char:EOLhyphen"/>red no, buttere long they ſhould find a great al<g ref="char:EOLhyphen"/>teration.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
